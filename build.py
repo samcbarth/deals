@@ -22,11 +22,12 @@ NAME = SITE["name"]
 NEWS_BRAND = SITE["news_brand"]
 BUILD_DATE = "2026-11-09"
 
-GTM = '''<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-KMS4X55L"></script>
+GTM = '''<script async src="https://www.googletagmanager.com/gtag/js?id=G-XC979NQ75R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+  gtag('config', 'G-XC979NQ75R');
 </script>'''
 
 DISCLOSURE = ('<p class="disclosure">Disclosure: As an Amazon Associate, Deal Notes earns from qualifying purchases. '

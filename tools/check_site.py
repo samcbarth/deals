@@ -47,7 +47,7 @@ def main():
     for f, (src, p) in parsed.items():
         rel = "/" + f.relative_to(ROOT).as_posix()
         head = src.split("<head>", 1)[1].lstrip() if "<head>" in src else ""
-        if not head.startswith('<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-KMS4X55L">'):
+        if not head.startswith('<script async src="https://www.googletagmanager.com/gtag/js?id=G-XC979NQ75R">'):
             errors.append(f"{rel}: GTM snippet not right after <head>")
         for need in ('<link rel="canonical"', '<meta name="description"', 'og:title', 'application/ld+json',
                      'class="network"', 'class="disclosure"'):
