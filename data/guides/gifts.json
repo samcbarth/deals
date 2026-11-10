@@ -1,0 +1,43 @@
+{
+  "slug": "gifts",
+  "title": "Gift Ideas on Amazon by Recipient and Budget (2026 Holiday Guide)",
+  "h1": "Gift ideas by recipient and budget",
+  "short": "Gifts",
+  "description": "Holiday gift ideas sorted by who you are shopping for and rough budget band, drawn from our test-backed buying guides. Includes Amazon's 2026 holiday return window.",
+  "updated": "2026-11-09",
+  "image": "guide-gifts",
+  "gift_mode": true,
+  "intro": "The safest gifts are useful things the person will reach for every week: a good knife for a cook, a headlamp for a camper, a Kindle for a reader. Every idea below comes from one of our buying guides, where each pick is backed by a published, test-based review.",
+  "how_chosen": "We did not test these products ourselves. Each gift links back to the guide where we explain the source review behind it. Budget bands are rough tiers based on each product's typical list price when we wrote this, not live Amazon prices, which change daily. Click through to see today's price.",
+  "bands": [
+    {"id": "under-25", "label": "Under about $25", "note": "Stocking stuffers and add-ons."},
+    {"id": "25-75", "label": "About $25 to $75", "note": "The sweet spot for most gift exchanges."},
+    {"id": "75-plus", "label": "About $75 and up", "note": "Bigger gifts for close family."}
+  ],
+  "gift_refs": [
+    "tech-accessories/anker-nano-softline",
+    "tools/stanley-powerlock-25",
+    "kitchen/victorinox-chef-knife",
+    "kitchen/lodge-chef-skillet",
+    "kitchen/javelin-pro-duo",
+    "kitchen/escali-primo",
+    "home-office/logitech-pop-icon-keys",
+    "home-office/logitech-m720",
+    "tech-accessories/belkin-boostcharge-plus-10k",
+    "outdoor/black-diamond-spot-400",
+    "outdoor/swell-traveler-16",
+    "tools/ryobi-drill-drive-kit",
+    "tech-accessories/kindle-2026",
+    "kitchen/thermapen-one",
+    "home-office/logitech-brio-505",
+    "tools/dewalt-dcd701f2",
+    "outdoor/helinox-chair-one"
+  ],
+  "picks": [],
+  "faq": [
+    {"q": "What is Amazon's holiday return window for 2026?", "a": "Amazon's return policy page says most items bought between November 1 and December 31, 2026 can be returned through January 31, 2027. Apple-brand products bought in that window have a shorter deadline of January 15, 2027."},
+    {"q": "Should I buy gifts early or wait for Black Friday?", "a": "Amazon says Black Friday 2026 is November 27 and Cyber Monday is November 30, and it has early deals live in its Holiday Shop. If an item you want is already at a price you are happy with, buying early avoids stock-outs and the extended return window still covers you."},
+    {"q": "How can I tell if a gift deal is real?", "a": "Compare the sale price with the item's recent price history rather than the crossed-out list price. Our guide to spotting a real deal walks through the checks."}
+  ],
+  "related": ["/deal-events/black-friday/", "/deal-events/cyber-monday/", "/how-to-spot-a-real-deal/", "/news/amazon-2026-holiday-return-window/"]
+}

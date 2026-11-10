@@ -1,0 +1,26 @@
+{
+  "slug": "contact",
+  "path": "/contact/",
+  "kind": "legal",
+  "title": "Contact Deal Notes",
+  "h1": "Contact",
+  "short": "Contact",
+  "description": "Send a correction, a recall tip or a question about a Deal Notes buying guide.",
+  "updated": "2026-11-09",
+  "contact_form": true,
+  "intro": "Spotted an error, a recalled product in one of our guides, or a broken link? Send it here. Corrections are the messages we act on fastest.",
+  "sections": [
+    {
+      "h": "What should I include in a correction?",
+      "answer": "The page address, what is wrong, and a link to a source that shows the correct information.",
+      "body": []
+    },
+    {
+      "h": "Can you help with an Amazon order?",
+      "answer": "No. We are not Amazon and cannot see or change orders. For order problems, contact Amazon customer service directly.",
+      "body": []
+    }
+  ],
+  "faq": [],
+  "related": ["/about/", "/privacy/"]
+}

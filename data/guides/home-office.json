@@ -1,0 +1,67 @@
+{
+  "slug": "home-office",
+  "title": "Best Home Office Gear on Amazon: Webcam, Keyboard, Mouse (2026)",
+  "h1": "Home office gear worth buying on Amazon",
+  "short": "Home office",
+  "description": "Webcam, wireless keyboard, mechanical keyboard and mouse picks for a home office, chosen from current test-based reviews. No fake testing, no scraped prices.",
+  "updated": "2026-11-09",
+  "image": "guide-home-office",
+  "intro": "For a better home office on a reasonable budget, upgrade the three things you touch or look through all day: your webcam, keyboard and mouse. The picks below are current top recommendations in published, test-based reviews, and all are sold on Amazon.",
+  "how_chosen": "We did not test these products ourselves. Each pick is a current top or upgrade recommendation in a published review that describes its own testing, checked against the maker's spec sheet for compatibility. We left out picks that are hard to find on Amazon. Prices change daily, so we link to Amazon instead of listing them.",
+  "picks": [
+    {
+      "id": "logitech-brio-505",
+      "name": "Logitech Brio 505",
+      "role": "Best webcam for video calls",
+      "why": "Wirecutter names the Brio 505 its top webcam pick. A dedicated webcam usually looks sharper and handles room lighting better than the camera built into a laptop lid.",
+      "good_to_know": "Check that your computer has a free USB-C port or that the box includes the cable type you need.",
+      "band": "75-plus",
+      "recipients": ["Remote worker", "Student"],
+      "sources": [{"label": "Wirecutter: The Best Webcams", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-webcams/"}],
+      "amazon": {"asin": "", "search": "Logitech Brio 505 webcam"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "logitech-pop-icon-keys",
+      "name": "Logitech Pop Icon Keys",
+      "role": "Best wireless keyboard",
+      "why": "Wirecutter picks the Pop Icon Keys as its best wireless keyboard, citing a pleasant typing feel, versatility and years-long battery life.",
+      "good_to_know": "It pairs over Bluetooth, so it can switch between a laptop, tablet and phone.",
+      "band": "25-75",
+      "recipients": ["Remote worker", "Student"],
+      "sources": [{"label": "Wirecutter: The Best Bluetooth and Wireless Keyboards", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-bluetooth-keyboard/"}],
+      "amazon": {"asin": "", "search": "Logitech Pop Icon Keys keyboard"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "keychron-v3-max",
+      "name": "Keychron V3 Max",
+      "role": "Mechanical keyboard pick",
+      "why": "After months of testing, Wirecutter recommends the Keychron V3 Max, V5 Max and V6 Max as its mechanical keyboard picks. The V3 Max is the compact layout without a number pad, which leaves more room for a mouse.",
+      "good_to_know": "Mechanical keyboards are louder than laptop-style keys. If you share a room or take calls, choose quieter switches.",
+      "band": "75-plus",
+      "recipients": ["Remote worker", "Gamer"],
+      "sources": [{"label": "Wirecutter: The Best Mechanical Keyboards", "url": "https://www.nytimes.com/wirecutter/reviews/our-favorite-mechanical-keyboards/"}],
+      "amazon": {"asin": "", "search": "Keychron V3 Max mechanical keyboard"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "logitech-m720",
+      "name": "Logitech M720 Triathlon Multi-Device Mouse",
+      "role": "Best wireless mouse",
+      "why": "Wirecutter says the M720 Triathlon has been its top wireless mouse pick since 2016 because of its comfortable size and shape. It has six buttons and can switch between three paired devices.",
+      "good_to_know": "It runs on a replaceable AA battery rather than a built-in rechargeable one, which some people prefer and some do not.",
+      "band": "25-75",
+      "recipients": ["Remote worker", "Student"],
+      "sources": [{"label": "Wirecutter: The Best Wireless Mouse", "url": "https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse/"}],
+      "amazon": {"asin": "", "search": "Logitech M720 Triathlon mouse"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    }
+  ],
+  "faq": [
+    {"q": "What is the most worthwhile home office upgrade?", "a": "For most people it is the item you use most: a comfortable keyboard and mouse for writers and analysts, or a good webcam for people on video calls all day."},
+    {"q": "Do I need a 4K webcam for work calls?", "a": "Usually not. Most video call apps send far less than 4K, so good lighting and a solid 1080p camera matter more."},
+    {"q": "When do home office items go on sale?", "a": "Computer accessories are common in Prime Day, Black Friday and back-to-school sales. See our deal events guide for the 2026 dates Amazon has published."}
+  ],
+  "related": ["/guides/tech-accessories/", "/deal-events/back-to-school/", "/price-history/", "/news/"]
+}

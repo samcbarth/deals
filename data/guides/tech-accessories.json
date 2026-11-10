@@ -1,0 +1,67 @@
+{
+  "slug": "tech-accessories",
+  "title": "Best Tech Accessories on Amazon: Chargers, Cables, Power Banks (2026)",
+  "h1": "Tech accessories worth buying on Amazon",
+  "short": "Tech accessories",
+  "description": "USB-C charger, cable, power bank and e-reader picks from current test-based reviews, plus how to avoid unsafe no-name chargers. Check live prices on Amazon.",
+  "updated": "2026-11-09",
+  "image": "guide-tech",
+  "intro": "The tech accessories most people actually need are a fast USB-C wall charger, a sturdy USB-C cable and a pocket power bank. Buy them from established brands: chargers and batteries are where cheap no-name products cause real safety problems.",
+  "how_chosen": "We did not test these products ourselves. Each pick is a current recommendation in a published, test-based review, checked against the maker's specs (wattage, ports, capacity). Battery and charger recalls show up in our news section, and we would pull any pick that is recalled. Prices change often, so we link to Amazon instead of listing them.",
+  "picks": [
+    {
+      "id": "belkin-boostcharge-pro-45w",
+      "name": "Belkin BoostCharge Pro 45W Dual USB-C Wall Charger",
+      "role": "Best phone charger",
+      "why": "Wirecutter recommends it in its USB phone charger guide because its two USB-C ports can charge a phone and another small device at top speed.",
+      "good_to_know": "45W total is plenty for phones, earbuds and tablets. For a large laptop, check the laptop's own wattage first.",
+      "band": "25-75",
+      "recipients": ["Commuter", "Student"],
+      "sources": [{"label": "Wirecutter: The Best USB Phone Chargers", "url": "https://www.nytimes.com/wirecutter/reviews/best-multiport-usb-wall-charger/"}],
+      "amazon": {"asin": "", "search": "Belkin BoostCharge Pro 45W dual USB-C wall charger"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "anker-nano-softline",
+      "name": "Anker Nano USB-C Softline Cable",
+      "role": "Best USB-C charging cable",
+      "why": "Wirecutter calls it the nicest charging cable it has tested, praising the thick woven material that feels sturdy but stays flexible.",
+      "good_to_know": "Charging cables are not all data cables. If you need fast file transfer or a monitor connection, buy a cable rated for that.",
+      "band": "under-25",
+      "recipients": ["Commuter", "Student", "Stocking stuffer"],
+      "sources": [{"label": "Wirecutter: The Best USB-C Cables and Adapters", "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-c-cables/"}],
+      "amazon": {"asin": "", "search": "Anker Nano USB-C Softline cable"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "belkin-boostcharge-plus-10k",
+      "name": "Belkin BoostCharge Plus 10K",
+      "role": "Best power bank for phones",
+      "why": "Wirecutter names it the best power bank for charging a phone, tablet or other small handheld device. A 10,000mAh bank is a common size that fits in a bag or large pocket.",
+      "good_to_know": "Power banks are lithium-ion batteries. Buy known brands, keep them out of hot cars, and check CPSC recall notices if one swells or gets hot.",
+      "band": "25-75",
+      "recipients": ["Commuter", "Traveler", "Student"],
+      "sources": [{"label": "Wirecutter: The Best Portable Chargers and Power Banks", "url": "https://www.nytimes.com/wirecutter/reviews/best-usb-battery-packs/"}],
+      "amazon": {"asin": "", "search": "Belkin BoostCharge Plus 10K power bank"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "kindle-2026",
+      "name": "Amazon Kindle (2026)",
+      "role": "Best e-reader",
+      "why": "Wirecutter tested Amazon's latest Kindles and recommends the base Kindle (2026) as its top pick, with the Kindle Paperwhite (2026) as the upgrade pick.",
+      "good_to_know": "Amazon's own devices are often discounted during Prime Day, Prime Big Deal Days and Black Friday, so timing matters more than usual here.",
+      "band": "75-plus",
+      "recipients": ["Reader", "Traveler"],
+      "sources": [{"label": "Wirecutter: The Best E-Readers", "url": "https://www.nytimes.com/wirecutter/reviews/amazon-kindle-is-the-best-ebook-reader/"}],
+      "amazon": {"asin": "", "search": "Kindle 2026"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    }
+  ],
+  "faq": [
+    {"q": "Are cheap USB chargers on Amazon safe?", "a": "Some are, many are unknown. Stick with established brands, look for safety certification marks such as UL on the product or listing, and avoid chargers that run very hot."},
+    {"q": "What size power bank do I need?", "a": "A 10,000mAh bank recharges most phones once or more. Bigger banks are heavier, and airlines limit large batteries in carry-on bags, so check before you fly."},
+    {"q": "Do I need a separate cable for my laptop?", "a": "Possibly. Laptops often need higher wattage than phones, so match both the charger and the cable to the wattage your laptop's maker lists."}
+  ],
+  "related": ["/guides/home-office/", "/guides/gifts/", "/news/bose-s1-pro-battery-recall/", "/price-history/"]
+}

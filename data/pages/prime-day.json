@@ -1,0 +1,51 @@
+{
+  "slug": "prime-day",
+  "path": "/deal-events/prime-day/",
+  "kind": "event",
+  "title": "Amazon Prime Day 2026 Recap and Prime Big Deal Days Dates",
+  "h1": "Amazon Prime Day 2026: dates, rules and what comes next",
+  "short": "Prime Day",
+  "description": "Prime Day 2026 ran June 23 to 26 and Prime Big Deal Days ran October 6 to 7, per Amazon. Who can shop, which countries, and how to prepare for the next one.",
+  "updated": "2026-11-09",
+  "image": "event-prime-day",
+  "intro": "Prime Day 2026 ran from June 23 to June 26 in the United States and many other countries, and Amazon's fall event, Prime Big Deal Days, ran October 6 to 7, 2026. Both are open only to Prime members. Both 2026 events have ended; the next big Amazon sale is the Black Friday and Cyber Monday period.",
+  "facts": [
+    {"label": "Prime Day 2026", "value": "June 23, 12:01 a.m. PDT, through June 26, 2026", "source": {"label": "Amazon press release, June 1, 2026", "url": "https://press.aboutamazon.com/2026/6/mark-your-calendars-amazon-announces-prime-day-event-from-june-23-26-with-millions-of-exclusive-deals-for-prime-members"}},
+    {"label": "Prime Big Deal Days 2026", "value": "October 6 to 7, 2026 (48 hours)", "source": {"label": "Amazon News", "url": "https://www.aboutamazon.com/news/retail/amazon-prime-big-deals-day-2026-when-october-6-7"}},
+    {"label": "Who can shop", "value": "Prime members only", "source": {"label": "Amazon press release, June 1, 2026", "url": "https://press.aboutamazon.com/2026/6/mark-your-calendars-amazon-announces-prime-day-event-from-june-23-26-with-millions-of-exclusive-deals-for-prime-members"}},
+    {"label": "Prime price (US)", "value": "$14.99 per month or $139 per year; free 30-day trial if eligible", "source": {"label": "Amazon press release, June 1, 2026", "url": "https://press.aboutamazon.com/2026/6/mark-your-calendars-amazon-announces-prime-day-event-from-june-23-26-with-millions-of-exclusive-deals-for-prime-members"}}
+  ],
+  "sections": [
+    {
+      "h": "When was Prime Day 2026?",
+      "answer": "Prime Day 2026 started June 23 at 12:01 a.m. PDT and ran through June 26. Amazon announced the dates on June 1, 2026.",
+      "body": ["That made it a four-day event held in June rather than July. Amazon's press release lists the participating countries as Austria, Belgium, Canada, Colombia, Egypt, France, Germany, Italy, Ireland, Luxembourg, Mexico, the Netherlands, Poland, Portugal, Saudi Arabia, Singapore, Spain, Sweden, Turkey, the United Arab Emirates, the United Kingdom and the United States. It said Prime members in Australia, Brazil, India and Japan would get Prime Day deals later in the summer."]
+    },
+    {
+      "h": "What is Prime Big Deal Days?",
+      "answer": "Prime Big Deal Days is Amazon's fall sale for Prime members. In 2026 it ran for 48 hours, October 6 to 7, with deals across more than 35 categories, according to Amazon.",
+      "body": ["Many shoppers call it October Prime Day. It is a useful second chance at summer prices and an early start on holiday gifts."]
+    },
+    {
+      "h": "Do you need Prime to shop Prime Day?",
+      "answer": "Yes. Amazon describes Prime Day deals as exclusively for Prime members.",
+      "body": ["Amazon's June 2026 release lists Prime at $14.99 per month or $139 per year, with a free 30-day trial for those eligible. Prime for Young Adults costs $7.49 per month or $69 per year after a six-month $0 trial for eligible members, and Prime Access is $6.99 per month for qualifying government assistance recipients and income-verified customers after a free 30-day trial."]
+    },
+    {
+      "h": "When is the next Prime Day?",
+      "answer": "Amazon has not announced Prime Day 2027 dates. We will add them here once Amazon publishes them.",
+      "body": ["Until then, the next large Amazon sale period is Black Friday (November 27, 2026) through Cyber Monday (November 30, 2026). See our <a href=\"/deal-events/black-friday/\">Black Friday page</a>."]
+    },
+    {
+      "h": "How should I prepare for the next Prime Day?",
+      "answer": "Build a wish list ahead of time, note each item's normal price, and set price alerts so you know a real drop when you see one.",
+      "body": ["Amazon's own Alexa for Shopping assistant shows 30-, 90- and 365-day price history and can set price alerts, according to Amazon. Our <a href=\"/price-history/\">price history guide</a> explains how to read that data and what third-party trackers add."]
+    }
+  ],
+  "faq": [
+    {"q": "Was Prime Day 2026 in July?", "a": "Not in the US. Amazon held the main Prime Day 2026 event June 23 to 26. Some countries, including India and Australia, held their Prime Day later in the summer."},
+    {"q": "How long was Prime Day 2026?", "a": "Four days, June 23 through June 26, in participating countries."},
+    {"q": "Are Prime Day deals better than Black Friday?", "a": "It depends on the item. Amazon's own devices are often discounted at both events. Compare each item's price history across the year."}
+  ],
+  "related": ["/deal-events/black-friday/", "/price-history/", "/how-to-spot-a-real-deal/", "/guides/"]
+}

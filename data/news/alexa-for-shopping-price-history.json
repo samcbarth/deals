@@ -1,0 +1,24 @@
+{
+  "slug": "alexa-for-shopping-price-history",
+  "title": "Amazon's Alexa for Shopping shows 30-, 90- and 365-day price history",
+  "date_published": "2026-10-29T12:00:00-05:00",
+  "tags": [
+    "Amazon",
+    "Shopping tools"
+  ],
+  "image": "news-retail",
+  "summary": "Amazon's updated guide to its Alexa for Shopping assistant says it shows price history over 30, 90 and 365 days and can set price alerts or auto-buy at a target price.",
+  "body": [
+    "Amazon updated its guide to the Alexa for Shopping assistant on October 29, 2026. It says the assistant shows 30-, 90- and 365-day price history, and that shoppers can ask questions such as whether an item has been on sale in the past 30 days.",
+    "Amazon also says shoppers can set price alerts or tell the assistant to buy an item once it reaches a target price, using their default payment method.",
+    "Why it matters: price history is the best defense against inflated list-price discounts during Black Friday and Cyber Monday. If you use auto-buy, confirm the exact item and seller before setting a target."
+  ],
+  "source": {
+    "label": "Amazon News: How to use Alexa for Shopping",
+    "url": "https://www.aboutamazon.com/news/retail/how-to-use-amazon-shopping-ai-assistant"
+  },
+  "related": [
+    "/price-history/",
+    "/how-to-spot-a-real-deal/"
+  ]
+}

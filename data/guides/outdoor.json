@@ -1,0 +1,67 @@
+{
+  "slug": "outdoor",
+  "title": "Best Outdoor Gear on Amazon: Headlamp, Cooler, Camp Chair (2026)",
+  "h1": "Outdoor gear worth buying on Amazon",
+  "short": "Outdoor",
+  "description": "Headlamp, water bottle, cooler and camp chair picks for camping and day trips, chosen from current test-based reviews. How we chose, what to check, live prices on Amazon.",
+  "updated": "2026-11-09",
+  "image": "guide-outdoor",
+  "intro": "For camping, tailgates and day hikes, a reliable headlamp, an insulated water bottle, a cooler and a camp chair do most of the work. The picks below are current recommendations in published, test-based reviews, with notes on who each one suits.",
+  "how_chosen": "We did not test this gear ourselves. Each pick is a current recommendation in a published review that describes its own field and lab testing, checked against the maker's specs. Sizes and colors vary a lot in outdoor listings, so confirm the exact model on Amazon before you buy.",
+  "picks": [
+    {
+      "id": "black-diamond-spot-400",
+      "name": "Black Diamond Spot 400 Headlamp",
+      "role": "Best headlamp",
+      "why": "Wirecutter's top headlamp pick is the Black Diamond Spot 400, which it describes as easy to use, bright enough and long-lasting on its batteries.",
+      "good_to_know": "A headlamp beats a flashlight for camp chores because both hands stay free. Keep spare batteries in your kit.",
+      "band": "25-75",
+      "recipients": ["Camper", "Runner", "Stocking stuffer"],
+      "sources": [{"label": "Wirecutter: The Best Headlamps", "url": "https://www.nytimes.com/wirecutter/reviews/best-headlamp/"}],
+      "amazon": {"asin": "", "search": "Black Diamond Spot 400 headlamp"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "swell-traveler-16",
+      "name": "S'well Stainless Steel Traveler 16 oz",
+      "role": "Best water bottle",
+      "why": "Wirecutter's water bottle guide lists the S'well Traveler 16 oz as its best water bottle, highlighting how comfortable it is to hold and drink from.",
+      "good_to_know": "16 ounces is a commuter size. For long hikes, carry more water or add a larger bottle.",
+      "band": "25-75",
+      "recipients": ["Commuter", "Camper"],
+      "sources": [{"label": "Wirecutter: The Best Water Bottles", "url": "https://www.nytimes.com/wirecutter/reviews/best-water-bottle/"}],
+      "amazon": {"asin": "", "search": "S'well Traveler 16 oz stainless steel bottle"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "rtic-52-ultralight",
+      "name": "RTIC 52 QT Ultra-Light Cooler",
+      "role": "Best cooler for most people",
+      "why": "Wirecutter calls the RTIC 52 QT Ultra-Light its best pick for most people who want a lightweight cooler that can do it all at a decent price.",
+      "good_to_know": "A 52-quart cooler is big. Measure your trunk, and remember it gets heavy once it is full of ice.",
+      "band": "75-plus",
+      "recipients": ["Camper", "Tailgater"],
+      "sources": [{"label": "Wirecutter: The Best Coolers", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-hard-cooler/"}],
+      "amazon": {"asin": "", "search": "RTIC 52 QT Ultra-Light cooler"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "helinox-chair-one",
+      "name": "Helinox Chair One",
+      "role": "Best lightweight camp chair",
+      "why": "Wirecutter's camping chair testers chose the Helinox Chair One among nearly two dozen chairs, and note it weighs around 2 pounds. That makes it easy to carry on a hike or pack for travel.",
+      "good_to_know": "Ultralight chairs sit low and take a minute to assemble. For car camping, a classic folding quad chair is simpler.",
+      "band": "75-plus",
+      "recipients": ["Camper", "Traveler"],
+      "sources": [{"label": "Wirecutter: The Best Camping Chairs", "url": "https://www.nytimes.com/wirecutter/reviews/best-portable-outdoor-chairs/"}],
+      "amazon": {"asin": "", "search": "Helinox Chair One camp chair"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    }
+  ],
+  "faq": [
+    {"q": "When is outdoor gear cheapest?", "a": "Camping gear is often discounted at the end of summer and during Prime Day. Coolers and chairs also show up in Black Friday sales. Check price history before treating any sale as a good deal."},
+    {"q": "Do I need an expensive cooler?", "a": "Only if you need ice to last several days. For day trips, a basic cooler works. Premium coolers earn their price on multi-day trips."},
+    {"q": "What should every day-hike kit include?", "a": "Water, a headlamp, a map or downloaded route, layers, snacks, sun protection and a small first-aid kit."}
+  ],
+  "related": ["/guides/gifts/", "/deal-events/prime-day/", "/price-history/", "/news/"]
+}

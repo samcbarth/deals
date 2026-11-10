@@ -1,0 +1,35 @@
+{
+  "slug": "affiliate-disclosure",
+  "path": "/affiliate-disclosure/",
+  "kind": "legal",
+  "title": "Affiliate Disclosure",
+  "h1": "Affiliate disclosure",
+  "short": "Affiliate disclosure",
+  "description": "How Deal Notes earns money from Amazon affiliate links, why we do not show Amazon prices or star ratings, and how picks are chosen.",
+  "updated": "2026-11-09",
+  "intro": "Deal Notes earns money through affiliate links. As an Amazon Associate, Deal Notes earns from qualifying purchases.",
+  "sections": [
+    {
+      "h": "What is an affiliate link?",
+      "answer": "A link that tells the store which site sent you. If you buy something after clicking, the store may pay us a small commission. Your price is the same.",
+      "body": ["Links to Amazon on this site are marked as sponsored in the page code, and every page shows a short disclosure near the top."]
+    },
+    {
+      "h": "Do commissions affect which products you recommend?",
+      "answer": "No. Picks come from published, test-based reviews and maker specs, as each guide's \"How we chose\" section explains. We include products whether or not they pay a commission.",
+      "body": []
+    },
+    {
+      "h": "Why don't you show Amazon prices or ratings?",
+      "answer": "Amazon's rules only allow affiliate sites to show live prices and similar product data through its official Product Advertising API, which becomes available after a site makes qualifying sales. Copying prices or star ratings by hand can be out of date and is not allowed.",
+      "body": ["So we use \"Check price on Amazon\" buttons that open the current listing. We also never show fake countdown timers or invented ratings."]
+    },
+    {
+      "h": "Are there other affiliate programs or ads?",
+      "answer": "Not today. If we add other affiliate programs or display ads, we will list them here and in our privacy policy.",
+      "body": []
+    }
+  ],
+  "faq": [],
+  "related": ["/about/", "/privacy/", "/terms/"]
+}

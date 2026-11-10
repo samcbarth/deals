@@ -1,0 +1,40 @@
+{
+  "slug": "back-to-school",
+  "path": "/deal-events/back-to-school/",
+  "kind": "event",
+  "title": "Amazon Back to School Deals: When to Shop and Student Savings",
+  "h1": "Back-to-school shopping on Amazon",
+  "short": "Back to school",
+  "description": "Amazon folded early back-to-school shopping into Prime Day 2026 (June 23 to 26). Student Prime pricing, where Amazon's back-to-school pages live, and what to buy.",
+  "updated": "2026-11-09",
+  "image": "event-back-to-school",
+  "intro": "Amazon does not run a separate, dated back-to-school sale. In 2026 it pitched Prime Day (June 23 to 26) as the time to get back-to-school shopping done early, and it keeps standing Back to School and Off to College shopping pages open through the season.",
+  "facts": [
+    {"label": "Prime Day 2026 (early back-to-school)", "value": "June 23 to 26, 2026", "source": {"label": "Amazon News", "url": "https://www.aboutamazon.com/news/retail/amazon-prime-day-june-2026"}},
+    {"label": "Prime for Young Adults", "value": "$7.49 per month or $69 per year after a six-month $0 trial (eligible students and 18 to 24 year olds)", "source": {"label": "Amazon press release, June 1, 2026", "url": "https://press.aboutamazon.com/2026/6/mark-your-calendars-amazon-announces-prime-day-event-from-june-23-26-with-millions-of-exclusive-deals-for-prime-members"}},
+    {"label": "Cash back for young adults", "value": "5% everyday cash back on eligible purchases; 10% stacked on eligible Prime Day deals in select categories during Prime Day 2026", "source": {"label": "Amazon press release, June 1, 2026", "url": "https://press.aboutamazon.com/2026/6/mark-your-calendars-amazon-announces-prime-day-event-from-june-23-26-with-millions-of-exclusive-deals-for-prime-members"}}
+  ],
+  "sections": [
+    {
+      "h": "When are Amazon's back-to-school deals?",
+      "answer": "Amazon spreads them across the summer. In 2026 it framed Prime Day, June 23 to 26, as a chance to finish back-to-school shopping early, and its Back to School and Off to College pages stay open through the season.",
+      "body": ["Because there is no single official back-to-school event, the best approach is to watch prices on your list from June through August and buy when an item hits its usual low. School supply lists usually arrive in July, so lock in big items (laptops, headphones, dorm gear) first and small supplies later."]
+    },
+    {
+      "h": "Do students get a Prime discount?",
+      "answer": "Yes. Amazon's Prime for Young Adults plan is half the cost of regular Prime: $7.49 per month or $69 per year after a six-month $0 trial for eligible members.",
+      "body": ["Amazon's June 2026 announcement says higher education students and 18 to 24 year olds can sign up at amazon.com/youngadult. It also lists 5% everyday cash back on eligible purchases, and during Prime Day 2026 eligible members could stack 10% cash back on eligible deals in beauty, apparel, PCs, electronics and personal care."]
+    },
+    {
+      "h": "What should I buy for back to school on Amazon?",
+      "answer": "Prioritize the things a student uses daily: a reliable charger and cable, a power bank, a comfortable keyboard and mouse for a desk setup, and a good webcam for remote classes.",
+      "body": ["Our <a href=\"/guides/tech-accessories/\">tech accessories guide</a> and <a href=\"/guides/home-office/\">home office guide</a> cover these with picks backed by published testing. For dorm kitchens, the <a href=\"/guides/kitchen/\">kitchen guide</a> starts with the basics."]
+    }
+  ],
+  "faq": [
+    {"q": "Is there an Amazon back-to-school sale in August?", "a": "Amazon keeps back-to-school pages live in late summer, but it has not announced a separate dated sale event. Prices on individual items move throughout the season."},
+    {"q": "Who qualifies for Prime for Young Adults?", "a": "Amazon says higher education students and people aged 18 to 24 can sign up, subject to eligibility checks."},
+    {"q": "Is Prime Day the best time for back-to-school shopping?", "a": "Often, for electronics. For basic supplies, prices are usually similar all summer, so buy them when the school list arrives."}
+  ],
+  "related": ["/deal-events/prime-day/", "/guides/tech-accessories/", "/guides/home-office/", "/price-history/"]
+}

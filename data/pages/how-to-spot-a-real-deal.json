@@ -1,0 +1,55 @@
+{
+  "slug": "how-to-spot-a-real-deal",
+  "path": "/how-to-spot-a-real-deal/",
+  "kind": "explainer",
+  "title": "How to Spot a Real Deal on Amazon: 7 Checks Before You Buy",
+  "h1": "How to spot a real deal on Amazon",
+  "short": "Spot a real deal",
+  "description": "A real deal is a price below what the item usually sells for, not below an inflated list price. Seven quick checks for Amazon sales, from price history to seller names.",
+  "updated": "2026-11-09",
+  "image": "explainer-real-deal",
+  "intro": "A real deal is a price clearly below what the item has actually sold for recently. The crossed-out \"list price\" next to a sale tells you little on its own, so check price history, the seller and the exact model before you buy.",
+  "sections": [
+    {
+      "h": "1. Is the price low compared with recent prices, not the list price?",
+      "answer": "Compare the sale price with the item's price over the last 90 days or more. If it sold at the \"sale\" price most of the year, it is not a real discount.",
+      "body": ["Amazon's own Alexa for Shopping assistant can show 30-, 90- and 365-day price history, according to Amazon, and third-party trackers chart prices too. Our <a href=\"/price-history/\">price history guide</a> shows how to read those charts."]
+    },
+    {
+      "h": "2. Is the list price believable?",
+      "answer": "Be skeptical of a list price you have never seen anyone charge. A large percentage off an inflated reference price is a common way to make an ordinary price look special.",
+      "body": ["The Federal Trade Commission's <a href=\"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-233\" rel=\"noopener\">Guides Against Deceptive Pricing</a> (16 CFR Part 233) say a former-price comparison should be based on a price the item was actually offered at, in good faith, for a reasonably substantial period. That is a good test to apply yourself."]
+    },
+    {
+      "h": "3. Is it the exact model you researched?",
+      "answer": "Check the model number, not just the product name. Sale listings sometimes feature an older, smaller or bundle-stripped version of a popular item.",
+      "body": ["Tool kits are a common example: a bare tool without batteries looks far cheaper than the full kit. Confirm what is in the box on the product page."]
+    },
+    {
+      "h": "4. Who is the seller?",
+      "answer": "Look at the \"Ships from\" and \"Sold by\" lines near the buy button. Items sold by Amazon or by the brand's own store are the lowest-risk choice.",
+      "body": ["Unknown sellers offering a famous brand far below everyone else deserve extra caution, especially for chargers, batteries and anything that touches food or skin."]
+    },
+    {
+      "h": "5. Is a countdown timer pushing you?",
+      "answer": "A timer creates urgency but does not change whether the price is good. If you already know the item's usual price, you can decide in seconds; if you do not, let it go.",
+      "body": ["Big sale events repeat. Prime Day, Prime Big Deal Days, Black Friday and Cyber Monday all happen every year, and many prices return between them."]
+    },
+    {
+      "h": "6. Does a coupon or Subscribe and Save change the math?",
+      "answer": "Check the final price at checkout. A clipped coupon or Subscribe and Save discount can make an unadvertised item cheaper than a featured deal.",
+      "body": ["Read the terms on subscriptions so you are not signed up for repeat deliveries you do not want."]
+    },
+    {
+      "h": "7. Would you buy it at this price if it were not on sale?",
+      "answer": "If the honest answer is no, skip it. The cheapest purchase is the one you did not need.",
+      "body": ["Make a list before a sale starts and stick to it. Our <a href=\"/guides/\">buying guides</a> are a starting point for items worth owning."]
+    }
+  ],
+  "faq": [
+    {"q": "What is a good discount on Amazon?", "a": "There is no fixed percentage. A good discount is one that brings the price near or below the item's lowest recent price."},
+    {"q": "Are Lightning Deals real deals?", "a": "Some are, some are not. Treat them like any other sale: check the price history and seller first."},
+    {"q": "Can I get a refund if the price drops after I buy?", "a": "Amazon does not generally offer price matching on its own drops. Its holiday return window, through January 31, 2027 for most items bought November 1 to December 31, 2026, can give you room to return and rebuy."}
+  ],
+  "related": ["/price-history/", "/deal-events/black-friday/", "/guides/", "/news/"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Deal Notes",
+  "tagline": "Buying guides and deal-event help for Amazon shoppers",
+  "base": "https://deals.samcbarth.com",
+  "news_brand": "Deal Notes Dispatch",
+  "news_tagline": "Retail sales events, recalls and consumer tech launches",
+  "owner": "Sam Barth",
+  "lang": "en-US",
+  "nav": [
+    ["Guides", "/guides/"],
+    ["Deal events", "/deal-events/"],
+    ["Spot a real deal", "/how-to-spot-a-real-deal/"],
+    ["Price history", "/price-history/"],
+    ["News", "/news/"]
+  ],
+  "network": [
+    ["Real Estate", "https://realestate.samcbarth.com/"],
+    ["Tools", "https://tools.samcbarth.com/"],
+    ["Games", "https://games.samcbarth.com/"],
+    ["Streaming", "https://streaming.samcbarth.com/"],
+    ["Home Repair", "https://homerepair.samcbarth.com/"],
+    ["Deals", "https://deals.samcbarth.com/"],
+    ["News", "https://news.samcbarth.com/"]
+  ],
+  "current_network": "Deals"
+}

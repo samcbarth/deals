@@ -1,0 +1,55 @@
+{
+  "slug": "tools",
+  "title": "Best Starter Tools on Amazon: Drill, Bits, Tape Measure (2026)",
+  "h1": "Starter tools worth buying on Amazon",
+  "short": "Tools",
+  "description": "A cordless drill, drill bit set and tape measure chosen from current test-based reviews, plus a ladder recall to check. Live prices on Amazon.",
+  "updated": "2026-11-09",
+  "image": "guide-tools",
+  "intro": "A first toolkit for an apartment or house needs a cordless drill, a bit set, a tape measure and a good screwdriver. With those four you can hang shelves, assemble furniture and handle most small repairs. Each pick below is a current recommendation in a published, test-based review.",
+  "how_chosen": "We did not test these tools ourselves. Each pick is a current recommendation in a published review that describes its own testing, checked against the maker's specs. We also watch CPSC recall notices for tools and ladders. Prices change often and tool kits come in many bundles, so check the exact kit contents on Amazon before you buy.",
+  "picks": [
+    {
+      "id": "dewalt-dcd701f2",
+      "name": "DeWalt DCD701F2 Xtreme 12V Drill",
+      "role": "Best cordless drill for household projects",
+      "why": "Wirecutter calls the DCD701F2 Xtreme the most comfortable drill it has held, with plenty of convenience features and enough power for typical household jobs.",
+      "good_to_know": "The F2 kit code means it comes with two batteries and a charger. Bare-tool listings without batteries look cheaper but are not the same item.",
+      "band": "75-plus",
+      "recipients": ["New homeowner", "DIYer"],
+      "sources": [{"label": "Wirecutter: The Best Drills", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-drill-for-common-household-projects/"}],
+      "amazon": {"asin": "", "search": "DeWalt DCD701F2 Xtreme 12V drill"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "ryobi-drill-drive-kit",
+      "name": "Ryobi 95-Piece Drill and Impact Drive Kit",
+      "role": "Best drill bit set",
+      "why": "Wirecutter names Ryobi's 300-piece and 95-piece drill and drive kits the best bit sets it has found in years of testing. The 95-piece kit covers most homeowner needs without as much clutter.",
+      "good_to_know": "Ryobi kits are often sold through Home Depot. If the exact kit is not on Amazon, compare the piece list before buying a lookalike.",
+      "band": "25-75",
+      "recipients": ["New homeowner", "DIYer"],
+      "sources": [{"label": "Wirecutter: The Best Drill Bit Sets", "url": "https://www.nytimes.com/wirecutter/reviews/best-drill-bit-set/"}],
+      "amazon": {"asin": "", "search": "Ryobi 95 piece drill and impact drive kit"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "stanley-powerlock-25",
+      "name": "Stanley PowerLock 25-Foot Tape Measure",
+      "role": "Best tape measure",
+      "why": "After research and durability tests on 17 tape measures, Wirecutter picks the Stanley 25-foot PowerLock for its durable blade, functional hook, solid stand-out and strong lock.",
+      "good_to_know": "A 25-foot tape covers room dimensions. A smaller 16-foot tape is easier to carry for furniture shopping.",
+      "band": "under-25",
+      "recipients": ["New homeowner", "DIYer", "Stocking stuffer"],
+      "sources": [{"label": "Wirecutter: The Best Tape Measure", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-tape-measure/"}],
+      "amazon": {"asin": "", "search": "Stanley PowerLock 25 foot tape measure"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    }
+  ],
+  "faq": [
+    {"q": "What tools should a first-time homeowner buy?", "a": "A cordless drill with two batteries, a bit set, a tape measure, a multi-bit screwdriver, a hammer, a level and a utility knife cover most first-year projects."},
+    {"q": "Is a 12V drill strong enough?", "a": "For furniture, shelves, curtain rods and light repairs, yes. Frequent drilling into masonry or large lumber calls for an 18V or 20V drill."},
+    {"q": "How do I know if my ladder or tool was recalled?", "a": "Search the brand and model at cpsc.gov/Recalls. In November 2026, Little Giant recalled about 3.66 million ladders with Rapid Locks, covered in our news section."}
+  ],
+  "related": ["/news/little-giant-ladder-recall/", "/guides/gifts/", "/how-to-spot-a-real-deal/", "/news/"]
+}

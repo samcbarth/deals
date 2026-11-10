@@ -1,0 +1,56 @@
+{
+  "slug": "black-friday",
+  "path": "/deal-events/black-friday/",
+  "kind": "event",
+  "title": "Amazon Black Friday 2026: Date, Early Deals and Return Window",
+  "h1": "Amazon Black Friday 2026: what Amazon has confirmed",
+  "short": "Black Friday",
+  "description": "Black Friday 2026 is November 27 and Cyber Monday is November 30, per Amazon. What Amazon has and has not announced, the holiday return window, and how to shop it well.",
+  "updated": "2026-11-09",
+  "image": "event-black-friday",
+  "intro": "Black Friday 2026 is Friday, November 27, and Cyber Monday is Monday, November 30. Amazon confirmed both dates on its news site on October 29, 2026, and says early deals are already live in its Holiday Shop.",
+  "facts": [
+    {"label": "Black Friday", "value": "Friday, November 27, 2026", "source": {"label": "Amazon News, Oct 29, 2026", "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"}},
+    {"label": "Cyber Monday", "value": "Monday, November 30, 2026", "source": {"label": "Amazon News, Oct 29, 2026", "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"}},
+    {"label": "Early deals", "value": "Live now in Amazon's Holiday Shop", "source": {"label": "Amazon News, Oct 29, 2026", "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"}},
+    {"label": "Holiday returns", "value": "Most items bought Nov 1 to Dec 31, 2026 returnable through Jan 31, 2027 (Apple-brand: Jan 15, 2027)", "source": {"label": "Amazon return policy page", "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7"}}
+  ],
+  "sections": [
+    {
+      "h": "When is Amazon Black Friday 2026?",
+      "answer": "Black Friday falls on Friday, November 27, 2026, the day after Thanksgiving. Amazon's Black Friday guide, published October 29, 2026, states that date.",
+      "body": ["Black Friday is always the Friday after Thanksgiving, so the date moves each year. Amazon usually runs a multi-day Black Friday Week event around it rather than a single day of deals."]
+    },
+    {
+      "h": "Has Amazon announced its Black Friday Week sale dates?",
+      "answer": "Not yet. As of November 9, 2026, Amazon's news site confirms the Black Friday and Cyber Monday dates but does not list a start or end date for a 2026 Black Friday Week event.",
+      "body": ["We only publish event dates that Amazon itself announces. Deal sites have published predicted start dates, but those are guesses, so we leave them out. We will update this page when Amazon posts official dates."]
+    },
+    {
+      "h": "Can I shop Black Friday deals early?",
+      "answer": "Yes. Amazon says customers can shop early deals in its Holiday Shop now.",
+      "body": ["Early deals are worth checking for items you already planned to buy, especially popular gifts that can sell out. Use the price history checks in our <a href=\"/price-history/\">price history guide</a> to confirm an early price is actually low."]
+    },
+    {
+      "h": "What if I buy a gift now and need to return it?",
+      "answer": "Amazon's return policy page says most items bought between November 1 and December 31, 2026 can be returned through January 31, 2027. Apple-brand products bought in that window must be returned by January 15, 2027.",
+      "body": ["That extended window is why buying early carries little risk for most gifts. Keep in mind that some categories have their own rules, and some returns can carry fees, so check the return details on the product page before you order."]
+    },
+    {
+      "h": "Do I need Prime to get Amazon Black Friday deals?",
+      "answer": "Amazon's Black Friday deals are generally open to all shoppers, unlike Prime Day, which is for Prime members only. Prime adds faster free shipping on eligible items.",
+      "body": ["Amazon's June 2026 Prime Day announcement lists Prime at $14.99 per month or $139 per year, with a free 30-day trial for eligible new members. If you only want Prime for holiday shipping, set a reminder to review the trial before it renews."]
+    },
+    {
+      "h": "How do I get the most out of Black Friday?",
+      "answer": "Make a list before the sale, check each item's price history, and buy only what is on the list at a price you already decided was fair.",
+      "body": ["Our <a href=\"/how-to-spot-a-real-deal/\">guide to spotting a real deal</a> covers the common traps: inflated list prices, countdown pressure, and lookalike listings from unknown sellers. For gift ideas sorted by budget, see <a href=\"/guides/gifts/\">gift ideas by recipient and budget</a>."]
+    }
+  ],
+  "faq": [
+    {"q": "Is Black Friday 2026 on November 27?", "a": "Yes. Amazon confirms Black Friday 2026 is Friday, November 27."},
+    {"q": "When is Cyber Monday 2026?", "a": "Monday, November 30, 2026, according to Amazon."},
+    {"q": "Are Amazon Black Friday prices the lowest of the year?", "a": "Sometimes, not always. Some items hit lower prices during Prime Day or Prime Big Deal Days. Price history is the only reliable way to tell."}
+  ],
+  "related": ["/deal-events/cyber-monday/", "/guides/gifts/", "/how-to-spot-a-real-deal/", "/news/amazon-black-friday-2026-dates/"]
+}

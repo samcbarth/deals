@@ -1,0 +1,45 @@
+{
+  "slug": "price-history",
+  "path": "/price-history/",
+  "kind": "explainer",
+  "title": "Amazon Price History Explained: How to Check It and Read the Chart",
+  "h1": "Amazon price history, explained",
+  "short": "Price history",
+  "description": "Price history shows what an item really sold for over time, which is the best way to judge a sale. How to check it with Amazon's own tools and third-party trackers, and how to read the chart.",
+  "updated": "2026-11-09",
+  "image": "explainer-price-history",
+  "intro": "Price history is a record of what an item has actually sold for over the past weeks or months. It is the most reliable way to judge a sale, because it shows whether today's price is truly low or just lower than an inflated list price.",
+  "sections": [
+    {
+      "h": "Why does price history matter more than the list price?",
+      "answer": "The list price is a reference number the seller chooses. Price history shows what buyers actually paid, so it tells you whether a sale is unusual or routine.",
+      "body": ["An item that sells at $40 most weeks and is marked \"was $70, now $40\" has not really dropped. An item that usually sells at $40 and drops to $29 has."]
+    },
+    {
+      "h": "Can I see price history on Amazon itself?",
+      "answer": "Yes. Amazon says its Alexa for Shopping assistant shows 30-, 90- and 365-day price history. You can ask questions like \"What's the price history?\" or \"Has this item been on sale in the past 30 days?\"",
+      "body": ["Amazon also says Alexa for Shopping can set price alerts, and can buy an item automatically when it reaches a target price using your default payment method. If you use auto-buy, double-check the exact item and seller first. Source: <a href=\"https://www.aboutamazon.com/news/retail/how-to-use-amazon-shopping-ai-assistant\" rel=\"noopener\">Amazon News, updated October 29, 2026</a>."]
+    },
+    {
+      "h": "What about third-party price trackers?",
+      "answer": "Independent trackers such as Keepa and camelcamelcamel chart Amazon prices over time and send alerts when a price drops below a number you set.",
+      "body": ["They can show longer histories and separate prices from Amazon and from third-party sellers. Use them as a second opinion, and remember they show past prices, not a promise of future ones."]
+    },
+    {
+      "h": "How do I read a price history chart?",
+      "answer": "Look for three things: the usual price (where the line sits most of the time), the recent low, and how often drops happen.",
+      "body": ["If today's price is near the recent low, it is a good price. If drops happen every few weeks, you can wait for the next one. If the line spiked right before a sale, the \"discount\" may just undo the spike."]
+    },
+    {
+      "h": "Why doesn't this site show Amazon prices?",
+      "answer": "Amazon's affiliate rules only allow sites like this one to show live Amazon prices through Amazon's official Product Advertising API, and that access opens up after a site makes qualifying sales.",
+      "body": ["Until then, we send you to Amazon to see the current price instead of showing a number that could be out of date. Our product data is stored so live prices can be added later through the official API. See our <a href=\"/affiliate-disclosure/\">affiliate disclosure</a>."]
+    }
+  ],
+  "faq": [
+    {"q": "How far back should I check price history?", "a": "At least 90 days for everyday items. For seasonal items like coolers or holiday decor, look at a full year."},
+    {"q": "Do Amazon prices change during the day?", "a": "They can. Prices on popular items may change several times, which is why alerts are more useful than checking by hand."},
+    {"q": "Is the lowest price ever the only good price?", "a": "No. A price near the recent low on an item you need now is a good buy. Waiting for an all-time low can mean waiting for months."}
+  ],
+  "related": ["/how-to-spot-a-real-deal/", "/deal-events/prime-day/", "/news/alexa-for-shopping-price-history/", "/guides/"]
+}

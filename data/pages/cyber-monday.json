@@ -1,0 +1,45 @@
+{
+  "slug": "cyber-monday",
+  "path": "/deal-events/cyber-monday/",
+  "kind": "event",
+  "title": "Amazon Cyber Monday 2026: Date and How to Shop It",
+  "h1": "Amazon Cyber Monday 2026: date and shopping tips",
+  "short": "Cyber Monday",
+  "description": "Cyber Monday 2026 is November 30, per Amazon. What Amazon has confirmed, how it relates to Black Friday, the holiday return window and how to judge a deal.",
+  "updated": "2026-11-09",
+  "image": "event-cyber-monday",
+  "intro": "Cyber Monday 2026 is Monday, November 30. Amazon confirmed the date in its Cyber Monday guide published November 4, 2026, and calls it the year's final major deal event.",
+  "facts": [
+    {"label": "Cyber Monday", "value": "Monday, November 30, 2026", "source": {"label": "Amazon News, Nov 4, 2026", "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-cyber-monday-faq"}},
+    {"label": "Black Friday", "value": "Friday, November 27, 2026", "source": {"label": "Amazon News, Oct 29, 2026", "url": "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"}},
+    {"label": "Holiday returns", "value": "Most items bought Nov 1 to Dec 31, 2026 returnable through Jan 31, 2027 (Apple-brand: Jan 15, 2027)", "source": {"label": "Amazon return policy page", "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7"}}
+  ],
+  "sections": [
+    {
+      "h": "When is Cyber Monday 2026?",
+      "answer": "Cyber Monday is Monday, November 30, 2026, the Monday after Thanksgiving weekend. Amazon's Cyber Monday guide, published November 4, 2026, confirms the date.",
+      "body": ["Cyber Monday started as the online counterpart to in-store Black Friday. At Amazon the two now run together as one long holiday sales period."]
+    },
+    {
+      "h": "Is Cyber Monday different from Black Friday at Amazon?",
+      "answer": "Mostly in timing. Amazon treats Black Friday and Cyber Monday as one holiday shopping stretch, and many deals carry across both.",
+      "body": ["As of November 9, 2026, Amazon has not posted official start and end dates for a 2026 Black Friday Week and Cyber Monday event. See our <a href=\"/deal-events/black-friday/\">Black Friday 2026 page</a> for what is confirmed so far."]
+    },
+    {
+      "h": "Should I wait for Cyber Monday or buy on Black Friday?",
+      "answer": "If the price on Black Friday matches the item's recent low, buy it then. Waiting risks the item selling out for only a small chance of a lower price.",
+      "body": ["Popular items, especially Amazon's own devices and toys, can run out of stock. A price tracker or Amazon's own price history view helps you decide whether a price is already at its floor. See our <a href=\"/price-history/\">price history guide</a>."]
+    },
+    {
+      "h": "What is the return window for Cyber Monday purchases?",
+      "answer": "Amazon's return policy page says most items bought from November 1 to December 31, 2026 can be returned through January 31, 2027, and Apple-brand products by January 15, 2027.",
+      "body": ["Check each product page for category exceptions before you buy."]
+    }
+  ],
+  "faq": [
+    {"q": "Is Cyber Monday 2026 on November 30?", "a": "Yes. Amazon confirms Cyber Monday 2026 is Monday, November 30."},
+    {"q": "Do Cyber Monday deals require Prime?", "a": "Amazon's holiday deals are generally open to all shoppers. Prime adds free fast shipping on eligible items, and Amazon's Cyber Monday guide mentions a free 30-day Prime trial for eligible customers."},
+    {"q": "What sells best on Cyber Monday?", "a": "We do not publish sales rankings we cannot verify. Electronics, Amazon devices and toys are categories Amazon highlights in its own holiday deal coverage."}
+  ],
+  "related": ["/deal-events/black-friday/", "/guides/tech-accessories/", "/guides/gifts/", "/how-to-spot-a-real-deal/"]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "kitchen",
+  "title": "Best Kitchen Gear to Buy on Amazon (2026 Guide)",
+  "h1": "Kitchen gear worth buying on Amazon",
+  "short": "Kitchen",
+  "description": "Five kitchen basics with long track records in independent testing: a chef's knife, cast-iron skillet, instant-read thermometer and kitchen scale. How we chose and what to check.",
+  "updated": "2026-11-09",
+  "image": "guide-kitchen",
+  "intro": "If you are building a kitchen from Amazon, start with a good chef's knife, a cast-iron skillet, an instant-read thermometer and a digital scale. These four tools handle most everyday cooking, and each pick below is a current top recommendation in a published, test-based review.",
+  "how_chosen": "We did not test these products ourselves. Each pick is a current recommendation in a published review that describes its own testing, cross-checked against the maker's specs. We favor products that have stayed recommended for years, because long track records matter more than launch hype. Prices change constantly, so we link to Amazon instead of quoting a number.",
+  "picks": [
+    {
+      "id": "victorinox-chef-knife",
+      "name": "Victorinox Swiss Classic 8-Inch Chef's Knife",
+      "role": "Best value chef's knife",
+      "why": "Wirecutter calls it the best knife you can buy for the price, and it is a long-running favorite of budget-conscious home cooks. An 8-inch blade is the standard all-purpose size for chopping, slicing and dicing.",
+      "good_to_know": "Hand wash and dry it. Dishwashers dull and damage almost any kitchen knife.",
+      "band": "25-75",
+      "recipients": ["Home cook", "New apartment"],
+      "sources": [{"label": "Wirecutter: The Best Chef's Knife", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-chefs-knife-for-most-cooks/"}],
+      "amazon": {"asin": "", "search": "Victorinox Swiss Classic 8 inch chef's knife"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "lodge-chef-skillet",
+      "name": "Lodge Chef Collection 12-Inch Cast Iron Skillet",
+      "role": "Best cast-iron skillet",
+      "why": "Wirecutter has tested 16 skillets since 2017 and names this one its top pick. Its reviewers note it is lighter than many cast-iron pans and sears well.",
+      "good_to_know": "Cast iron is heavy even when it is the light one. If you plan to toss food or lift the pan one-handed, consider a 10-inch size.",
+      "band": "25-75",
+      "recipients": ["Home cook", "New apartment"],
+      "sources": [{"label": "Wirecutter: The Best Cast-Iron Skillet", "url": "https://www.nytimes.com/wirecutter/reviews/best-cast-iron-skillet/"}],
+      "amazon": {"asin": "", "search": "Lodge Chef Collection 12 inch cast iron skillet"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "javelin-pro-duo",
+      "name": "Lavatools Javelin Pro Duo",
+      "role": "Best instant-read thermometer for most people",
+      "why": "Wirecutter's meat thermometer guide recommends the Javelin Pro Duo as a speedy, full-featured, reasonably priced instant-read thermometer. A thermometer is the cheapest way to stop overcooking chicken and pork.",
+      "good_to_know": "Instant-read means you probe and pull it out. For long roasts or smoking, a leave-in probe thermometer is a separate tool.",
+      "band": "25-75",
+      "recipients": ["Home cook", "Grill fan"],
+      "sources": [{"label": "Wirecutter: The Best Meat Thermometers", "url": "https://www.nytimes.com/wirecutter/reviews/the-best-instant-read-thermometer/"}],
+      "amazon": {"asin": "", "search": "Lavatools Javelin Pro Duo thermometer"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "thermapen-one",
+      "name": "ThermoWorks Thermapen One",
+      "role": "Fastest instant-read thermometer",
+      "why": "Wirecutter calls the Thermapen One the fastest instant-read thermometer it has tested. It costs more than the Javelin, so it makes sense for people who cook meat often or want a gift that lasts.",
+      "good_to_know": "ThermoWorks sells through its own site as well as retailers, so compare where you buy and check the seller name on Amazon.",
+      "band": "75-plus",
+      "recipients": ["Home cook", "Grill fan"],
+      "sources": [{"label": "Wirecutter: Why we rely on ThermoWorks thermometers", "url": "https://www.nytimes.com/wirecutter/reviews/thermoworks-thermometers-review/"}],
+      "amazon": {"asin": "", "search": "ThermoWorks Thermapen One"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    },
+    {
+      "id": "escali-primo",
+      "name": "Escali Primo Digital Scale",
+      "role": "Best kitchen scale",
+      "why": "Wirecutter says the affordable Escali Primo has been its top pick for almost a decade and is the best scale for most home baking and cooking. Weighing flour instead of scooping it is the single easiest way to get consistent baking results.",
+      "good_to_know": "Look for the tare button (it zeroes out the bowl) and a weight limit that covers your largest mixing bowl plus ingredients.",
+      "band": "25-75",
+      "recipients": ["Baker", "Home cook"],
+      "sources": [{"label": "Wirecutter: The Best Kitchen Scales", "url": "https://www.nytimes.com/wirecutter/reviews/best-kitchen-scale/"}],
+      "amazon": {"asin": "", "search": "Escali Primo digital kitchen scale"},
+      "price": {"live": null, "currency": null, "fetched_at": null}
+    }
+  ],
+  "faq": [
+    {"q": "What kitchen tools should I buy first?", "a": "A chef's knife, a large skillet, a cutting board, an instant-read thermometer and a digital scale cover most daily cooking. Add specialty gadgets only after you know you will use them."},
+    {"q": "Are kitchen items cheaper on Prime Day or Black Friday?", "a": "Popular kitchen brands are often discounted during both events, but not every listed discount is real. Check the item's price history before buying, as explained in our price history guide."},
+    {"q": "Is it safe to buy knives and cookware from third-party sellers on Amazon?", "a": "Check the seller name under the buy button. Items sold by the brand or by Amazon itself are the lowest-risk option for avoiding counterfeits."}
+  ],
+  "related": ["/price-history/", "/how-to-spot-a-real-deal/", "/guides/gifts/", "/news/"]
+}

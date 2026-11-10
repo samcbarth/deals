@@ -1,0 +1,50 @@
+{
+  "slug": "privacy",
+  "path": "/privacy/",
+  "kind": "legal",
+  "title": "Privacy Policy",
+  "h1": "Privacy policy",
+  "short": "Privacy",
+  "description": "What data Deal Notes collects, how cookies, analytics, Google ads and affiliate links work on this site, and your choices.",
+  "updated": "2026-11-09",
+  "intro": "Deal Notes is a static website. We do not run user accounts or store personal data on our own servers. This page explains the third-party services that may set cookies or collect data when you visit.",
+  "sections": [
+    {
+      "h": "Does this site use cookies?",
+      "answer": "Yes, through third-party services: Google Tag Manager and analytics, and, if enabled, Google advertising. Amazon may also set cookies after you click an affiliate link.",
+      "body": ["Cookies are small files stored by your browser. You can block or delete them in your browser settings; the site still works without them. The site also stores your light or dark theme choice in your browser."]
+    },
+    {
+      "h": "What analytics do you use?",
+      "answer": "We use Google Tag Manager, which can load Google Analytics, to understand which pages are read and how people find the site.",
+      "body": ["This data is aggregated and is not used to identify you. Google's use of this data is covered by <a href=\"https://policies.google.com/privacy\" rel=\"noopener\">Google's privacy policy</a>. You can opt out with the <a href=\"https://tools.google.com/dlpage/gaoptout\" rel=\"noopener\">Google Analytics opt-out browser add-on</a>."]
+    },
+    {
+      "h": "Do you show Google ads?",
+      "answer": "Not currently. If we enable Google AdSense, Google and its partners may use cookies to show ads based on your visits to this and other sites.",
+      "body": ["You can manage ad personalization at <a href=\"https://adssettings.google.com\" rel=\"noopener\">Google Ad Settings</a> and learn more at <a href=\"https://policies.google.com/technologies/ads\" rel=\"noopener\">how Google uses cookies in advertising</a>."]
+    },
+    {
+      "h": "How do affiliate links affect my privacy?",
+      "answer": "When you click a \"Check price on Amazon\" link, Amazon records that you came from this site so it can credit a commission. Amazon's handling of your data is covered by its own privacy notice.",
+      "body": ["We do not receive your name, address or order details from Amazon."]
+    },
+    {
+      "h": "What happens if I contact you?",
+      "answer": "We use the details you send only to reply. Contact form submissions are handled by HubSpot when the form is enabled.",
+      "body": []
+    },
+    {
+      "h": "Do you collect data from children?",
+      "answer": "No. This site is not directed at children under 13, and we do not knowingly collect their data.",
+      "body": []
+    },
+    {
+      "h": "Will this policy change?",
+      "answer": "If our services change, we will update this page and the date at the top.",
+      "body": []
+    }
+  ],
+  "faq": [],
+  "related": ["/terms/", "/affiliate-disclosure/", "/contact/"]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "terms",
+  "path": "/terms/",
+  "kind": "legal",
+  "title": "Terms of Use",
+  "h1": "Terms of use",
+  "short": "Terms",
+  "description": "The terms for using Deal Notes: information only, no warranties on third-party products or prices, and how links to other sites work.",
+  "updated": "2026-11-09",
+  "intro": "By using Deal Notes you agree to these terms. They are short because the site is simple: we publish information, and you decide what to buy.",
+  "sections": [
+    {
+      "h": "Is the information on this site advice?",
+      "answer": "No. Guides and news are general information to help you research purchases. Check details such as specs, compatibility and safety warnings with the seller or maker before you buy.",
+      "body": []
+    },
+    {
+      "h": "Are prices and availability guaranteed?",
+      "answer": "No. We do not sell anything. Prices, stock and offers are set by Amazon and other sellers and can change at any time.",
+      "body": []
+    },
+    {
+      "h": "What about links to other sites?",
+      "answer": "We link to sources and stores we think are useful, but we do not control them and are not responsible for their content, products or policies.",
+      "body": []
+    },
+    {
+      "h": "Can I reuse your content?",
+      "answer": "You can quote short passages with a link back. Please do not republish whole pages.",
+      "body": []
+    },
+    {
+      "h": "Limitation of liability",
+      "answer": "The site is provided as is. To the extent the law allows, we are not liable for losses from using the site or from products bought through links on it.",
+      "body": []
+    }
+  ],
+  "faq": [],
+  "related": ["/privacy/", "/affiliate-disclosure/"]
+}

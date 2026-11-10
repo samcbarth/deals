@@ -1,0 +1,35 @@
+{
+  "slug": "about",
+  "path": "/about/",
+  "kind": "legal",
+  "title": "About Deal Notes",
+  "h1": "About Deal Notes",
+  "short": "About",
+  "description": "Deal Notes is a small, independent site of Amazon buying guides and deal-event explainers run by Sam Barth. How we choose picks and how the site makes money.",
+  "updated": "2026-11-09",
+  "intro": "Deal Notes is an independent site that helps people shop Amazon with less guesswork: buying guides by category, plain explanations of big sale events, and short news on sales, recalls and product launches.",
+  "sections": [
+    {
+      "h": "Who runs this site?",
+      "answer": "Deal Notes is run by Sam Barth as part of a small network of sites on samcbarth.com.",
+      "body": ["The other sites in the network are linked in the footer of every page."]
+    },
+    {
+      "h": "How do you choose products?",
+      "answer": "We do not run a test lab, and we never claim hands-on testing we did not do. Each pick is a current recommendation in a published, test-based review, which we link, cross-checked against the maker's specs.",
+      "body": ["Each guide has a \"How we chose\" section that says exactly what it is based on. If a pick is recalled or drops out of the source review, we update or remove it."]
+    },
+    {
+      "h": "Where do event dates and news facts come from?",
+      "answer": "From primary sources: Amazon's own announcements for deal-event dates, the Consumer Product Safety Commission for recalls, and company press releases for product launches.",
+      "body": ["Every news story links its source. If we cannot verify a fact, we leave it out."]
+    },
+    {
+      "h": "How does the site make money?",
+      "answer": "Through affiliate links. When you buy through a \"Check price on Amazon\" link, we may earn a commission at no extra cost to you.",
+      "body": ["Commissions never decide which products we include. Details are on our <a href=\"/affiliate-disclosure/\">affiliate disclosure</a> page."]
+    }
+  ],
+  "faq": [],
+  "related": ["/affiliate-disclosure/", "/contact/", "/guides/"]
+}
