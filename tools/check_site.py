@@ -97,6 +97,8 @@ def main():
         for u in sorted(externals):
             if "amazon.com/s?" in u or "amazon.com/dp/" in u:
                 continue  # store search links; checked by format only
+            if re.match(r"https://[a-z]+\.samcbarth\.com/", u):
+                continue  # network subdomains: not live until DNS + Pages are set up; internal check covers ours
             try:
                 req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (link check)"})
                 code = urllib.request.urlopen(req, timeout=20).status
