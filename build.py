@@ -127,12 +127,23 @@ def make_images():
         webp, png = out / f"{key}.webp", out / "og" / f"{key}.png"
         if webp.exists() and png.exists():
             continue
-        im = Image.new("RGB", (1200, 630), color)
+        # samcbarth.com brand: black field, purple glow, 2px black-to-purple rule, uppercase type.
+        im = Image.new("RGB", (1200, 630), (0, 0, 0))
+        glow = Image.new("RGB", (1200, 630), (0, 0, 0))
+        gd = ImageDraw.Draw(glow)
+        for i in range(60):
+            r = 620 - i * 9
+            c = (int(154 * i / 60 * .55), 0, int(255 * i / 60 * .55))
+            gd.ellipse([1180 - r, 80 - r, 1180 + r, 80 + r], fill=c)
+        im.paste(glow)
         d = ImageDraw.Draw(im)
-        d.rectangle([0, 560, 1200, 630], fill=(0, 0, 0))
-        d.text((72, 200), title, font=font(True, 92), fill="white")
-        d.text((76, 330), sub, font=font(False, 48), fill=(235, 235, 235))
-        d.text((72, 578), "deals.samcbarth.com", font=font(False, 30), fill=(210, 210, 210))
+        for x in range(1200):
+            d.line([(x, 540), (x, 541)], fill=(int(154 * x / 1199), 0, int(255 * x / 1199)))
+        d.ellipse([72, 142, 88, 158], fill=(154, 0, 255))
+        d.text((104, 128), "DEAL NOTES", font=font(True, 30), fill=(142, 124, 195))
+        d.text((70, 200), title.upper(), font=font(True, 96), fill="white")
+        d.text((74, 340), sub.upper(), font=font(False, 44), fill=(205, 205, 205))
+        d.text((72, 566), "DEALS.SAMCBARTH.COM", font=font(True, 28), fill=(200, 200, 200))
         im.save(webp, "WEBP", quality=80)
         im.save(png, "PNG", optimize=True)
 
@@ -256,10 +267,14 @@ def page(path, title, desc, body, trail, image="home", ld_extra=(), og_type="web
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#0f6b5c">
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="{esc(NAME)}" href="/rss.xml">
 <link rel="alternate" type="application/feed+json" title="{esc(NEWS_BRAND)}" href="/news/feed.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=Barlow:wght@900&family=Inter:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="/assets/site.css">
 <script src="/assets/config.js"></script>
 <script src="/assets/site.js" defer></script>
@@ -268,15 +283,16 @@ def page(path, title, desc, body, trail, image="home", ld_extra=(), og_type="web
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-head"><div class="wrap">
-<a class="logo" href="/">Deal<span>Notes</span></a>
+<a class="logo" href="/"><span class="dot" aria-hidden="true"></span>Deal<span class="sub">Notes</span></a>
 <nav class="nav" aria-label="Main">{nav}</nav>
-<button class="theme-btn" type="button" aria-label="Toggle dark mode">Theme</button>
 </div></header>
+<div class="grad-rule" aria-hidden="true"></div>
 <main id="main"><div class="wrap">
 {crumbs_html(trail)}
 {DISCLOSURE}
 {body}
 </div></main>
+<div class="grad-rule" aria-hidden="true"></div>
 <footer class="site-foot"><div class="wrap">
 <div class="foot-links">
 <a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a>
