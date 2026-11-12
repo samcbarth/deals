@@ -28,7 +28,11 @@ GTM = '''<script async src="https://www.googletagmanager.com/gtag/js?id=G-XC979N
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-XC979NQ75R');
-</script>'''
+</script>
+<!-- monetag -->
+<script src="https://5gvci.com/act/files/tag.min.js?z=12242952" data-cfasync="false" async></script>
+<script>(function(s){s.dataset.zone='12242953',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+<script>(function(s){s.dataset.zone='12242954',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>'''
 
 DISCLOSURE = ('<p class="disclosure">Disclosure: As an Amazon Associate, Deal Notes earns from qualifying purchases. '
               'Some links on this page may earn us a commission at no extra cost to you. '
